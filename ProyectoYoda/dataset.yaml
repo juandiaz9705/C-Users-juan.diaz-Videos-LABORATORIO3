@@ -1,0 +1,5 @@
+train: C:\Users\juan.diaz\Videos\LABORATORIO3\Data\train\
+val: C:\Users\juan.diaz\Videos\LABORATORIO3\Data\val\
+test:
+nc: 8
+names: ["Yoda1", "Yoda7", "Yoda8", "Yoda2", "Yoda3", "Yoda4", "Yoda5", "Yoda6"]
